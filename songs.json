@@ -2,12 +2,13 @@
     "songs": [
         {
             "title": "Song Name",
+            "artist": "Parantak",
             "url": "https://raw.githubusercontent.com/unusualskye/music-files/main/GARAZ%20GARAZ%20KAALI%20GHATA%20BARSE.mp3",
             "cover": "https://i.imgur.com/yxDKXmj.jpeg"
         },
         {
             "title": "Song Name 2",
-            "artist": "Parantak"
+            "artist": "Parantak",
             "url": "https://raw.githubusercontent.com/unusualskye/music-files/main/GARAZ%20GARAZ%20KAALI%20GHATA%20BARSE.mp3",
             "cover": "https://i.imgur.com/yxDKXmj.jpeg"
         }
